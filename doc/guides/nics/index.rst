@@ -33,6 +33,7 @@ Network Interface Controller Drivers
     gve
     hinic
     hns3
+    hns5
     i40e
     ice
     idpf

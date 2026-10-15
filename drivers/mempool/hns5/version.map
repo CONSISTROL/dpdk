@@ -1,0 +1,10 @@
+DPDK_23 {
+	global:
+	g_hns5_bmu_addr_trans_tbl;
+	local: *;
+};
+
+INTERNAL {
+	global:
+	hns5_mp_clean_addr_trans_tbl;
+};

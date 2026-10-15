@@ -6,6 +6,7 @@ drivers = [
         'cnxk',
         'dpaa',
         'dpaa2',
+        'hns5',
         'octeontx',
         'ring',
         'stack',

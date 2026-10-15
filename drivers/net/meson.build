@@ -26,6 +26,7 @@ drivers = [
         'gve',
         'hinic',
         'hns3',
+        'hns5',
         'i40e',
         'iavf',
         'ice',
